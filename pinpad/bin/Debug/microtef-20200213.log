@@ -1,0 +1,75 @@
+2020-02-13 12:21:01.230 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-13 12:21:04.634 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-13 12:21:04.634 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-13 12:21:04.635 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-13 12:21:34.030 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-13 12:21:38.124 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-13 12:21:38.124 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-13 12:21:38.125 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-13 12:21:38.272 -03:00 [DEBUG] Connection try finished.
+2020-02-13 12:21:38.329 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-13 12:21:38.331 -03:00 [DEBUG] Ping initiated.
+2020-02-13 12:22:57.445 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-13 12:22:58.107 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-13 12:22:58.108 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-13 12:22:58.108 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-13 12:22:58.227 -03:00 [DEBUG] Connection try finished.
+2020-02-13 12:22:58.276 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-13 12:22:58.278 -03:00 [DEBUG] Ping initiated.
+2020-02-13 12:45:08.336 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-13 12:45:13.178 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-13 12:45:13.178 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-13 12:45:13.179 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-13 12:45:13.323 -03:00 [DEBUG] Connection try finished.
+2020-02-13 12:45:13.380 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-13 12:45:13.383 -03:00 [DEBUG] Ping initiated.
+2020-02-13 12:45:58.901 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-13 12:45:59.760 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-13 12:45:59.760 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-13 12:45:59.760 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-13 12:45:59.882 -03:00 [DEBUG] Connection try finished.
+2020-02-13 12:45:59.931 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-13 12:45:59.931 -03:00 [DEBUG] Ping initiated.
+2020-02-13 12:47:22.965 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-13 12:47:23.896 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-13 12:47:23.896 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-13 12:47:23.896 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-13 12:47:24.018 -03:00 [DEBUG] Connection try finished.
+2020-02-13 12:47:24.067 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-13 12:47:24.068 -03:00 [DEBUG] Ping initiated.
+2020-02-13 12:47:46.219 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-13 12:47:46.912 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-13 12:47:46.912 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-13 12:47:46.913 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-13 12:47:47.033 -03:00 [DEBUG] Connection try finished.
+2020-02-13 12:47:47.082 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-13 12:47:47.082 -03:00 [DEBUG] Ping initiated.
+2020-02-13 12:47:57.107 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2020-02-13 12:47:57.107 -03:00 [DEBUG] Initiator Transaction Key: '511247fa-ff2d-449e-b6f9-bb5faf727f3d'.
+2020-02-13 12:47:57.108 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2020-02-13 12:47:57.108 -03:00 [DEBUG] Performing card reading.
+2020-02-13 12:48:12.190 -03:00 [DEBUG] Card reading status: 'Ok'.
+2020-02-13 12:48:12.240 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2020-02-13 12:48:12.240 -03:00 [DEBUG] Card reading returned success.
+2020-02-13 12:48:12.240 -03:00 [DEBUG] Reading cardholder password.
+2020-02-13 12:48:12.241 -03:00 [DEBUG] Initiating 'ReadPassword' flow.
+2020-02-13 12:48:12.242 -03:00 [DEBUG] Reading cardholder password.
+2020-02-13 12:48:16.866 -03:00 [DEBUG] Card reading status: 'Ok'.
+2020-02-13 12:48:16.916 -03:00 [DEBUG] Finishing 'ReadPassword' flow.
+2020-02-13 12:48:16.916 -03:00 [DEBUG] Sending the transaction to Stone Payments authorizer.
+2020-02-13 12:48:16.918 -03:00 [DEBUG] Initiating 'SendAuthorizationAndGetReport' flow.
+2020-02-13 12:48:16.918 -03:00 [DEBUG] Initiator Transaction Key: '511247fa-ff2d-449e-b6f9-bb5faf727f3d'.
+2020-02-13 12:48:16.918 -03:00 [DEBUG] Creating the transaction entry, containing all information about the transaction.
+2020-02-13 12:48:16.970 -03:00 [DEBUG] Sending the transaction to Stone Payments authorizer.
+2020-02-13 12:48:19.627 -03:00 [DEBUG] Transaction status: 'True'.
+2020-02-13 12:48:19.628 -03:00 [DEBUG] Response Code: ''.
+2020-02-13 12:48:19.628 -03:00 [DEBUG] Response Reason: ''.
+2020-02-13 12:48:19.628 -03:00 [DEBUG] Acquirer Transaction Key (ATK): '14405779225364'.
+2020-02-13 12:48:19.633 -03:00 [DEBUG] Sending FNC to the EMV module.
+2020-02-13 12:48:19.866 -03:00 [DEBUG] Transaction approved!
+2020-02-13 12:48:19.867 -03:00 [DEBUG] Waiting for card removal.
+2020-02-13 12:48:19.867 -03:00 [DEBUG] Initiating 'PromptForCardRemoval' flow.
+2020-02-13 12:48:22.107 -03:00 [DEBUG] Finishing 'PromptForCardRemoval' flow.
+2020-02-13 12:48:22.108 -03:00 [DEBUG] Printing receipt (if the pinpad supports it).
+2020-02-13 12:48:22.109 -03:00 [DEBUG] Finishing 'SendAuthorizationAndGetReport' flow.
+2020-02-13 12:48:22.109 -03:00 [DEBUG] Finishing 'Authorize' flow.

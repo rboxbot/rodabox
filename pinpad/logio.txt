@@ -1,0 +1,216 @@
+2/13/2020 12:21:01 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/13/2020 12:21:04 PM :  
+Pinpad nao encontrado.
+-----------------------------------------------------------------------------------
+2/13/2020 12:21:04 PM :  
+Comando recebido: status
+-----------------------------------------------------------------------------------
+2/13/2020 12:21:33 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/13/2020 12:21:38 PM :  
+Comando recebido: status
+-----------------------------------------------------------------------------------
+2/13/2020 12:22:57 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/13/2020 12:22:57 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/13/2020 12:45:08 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/13/2020 12:45:58 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/13/2020 12:45:58 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/13/2020 12:47:22 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/13/2020 12:47:22 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/13/2020 12:47:46 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/13/2020 12:47:46 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/13/2020 12:47:57 PM :  
+Comando recebido: pagar --valor 0.01 -id roda1454
+-----------------------------------------------------------------------------------
+2/13/2020 12:50:22 PM :  
+Comando recebido: resumo --todas
+-----------------------------------------------------------------------------------
+2/13/2020 12:50:22 PM :  
+Consulta de todas as transações.
+-----------------------------------------------------------------------------------
+2/14/2020 4:11:28 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/14/2020 4:11:31 PM :  
+Comando recebido: pagar --valor 0.01 -id 16BB9299B091A8C4DC2C659634FA786F
+-----------------------------------------------------------------------------------
+2/14/2020 4:14:44 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/14/2020 4:14:46 PM :  
+Comando recebido: pagar --valor 0.01 -id 3A6920AEA1628A918CE2DE6AE32BA73E
+-----------------------------------------------------------------------------------
+2/14/2020 4:30:05 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/14/2020 4:30:05 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/14/2020 4:30:07 PM :  
+Comando recebido: pagar --valor 0.01 -id 49C37D665A8CAEB7F28D0BDD724EA172
+-----------------------------------------------------------------------------------
+2/14/2020 4:30:09 PM :  
+Transação não aprovada, erro: 
+   * Codigo de erro: 
+   * Razao do erro: 
+
+-----------------------------------------------------------------------------------
+2/14/2020 4:30:09 PM :  
+Erro na transação 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at SimpleConsoleApp.PaymentCore.TransactionTableEntry..ctor (Poi.Sdk.Authorization.Report.IAuthorizationReport report, System.Boolean isCancelled) [0x00036] in <9b381bb67a0d4d3ebb273326f9199c6d>:0 
+  at SimpleConsoleApp.PaymentCore.AuthorizationCore.Authorize (SimpleConsoleApp.CmdLine.Options.TransactionOption transaction) [0x000b7] in <9b381bb67a0d4d3ebb273326f9199c6d>:0 
+-----------------------------------------------------------------------------------
+2/14/2020 4:30:25 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/14/2020 4:30:25 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/14/2020 4:30:26 PM :  
+Comando recebido: pagar --valor 0.01 -id D5090C950BC79CFC43B379820A5590BF
+-----------------------------------------------------------------------------------
+2/14/2020 4:30:42 PM :  
+O cartao possui chip. For favor, insira-o.
+-----------------------------------------------------------------------------------
+2/14/2020 4:30:54 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/14/2020 4:30:54 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/14/2020 4:30:54 PM :  
+Comando recebido: pagar --valor 0.01 -id 3CB73CD9CE2422D75AF8D52A0345EE65
+-----------------------------------------------------------------------------------
+2/14/2020 4:30:59 PM :  
+Transação não aprovada, erro: 
+   * Codigo de erro: 
+   * Razao do erro: 
+
+-----------------------------------------------------------------------------------
+2/14/2020 4:30:59 PM :  
+Erro na transação 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at SimpleConsoleApp.PaymentCore.TransactionTableEntry..ctor (Poi.Sdk.Authorization.Report.IAuthorizationReport report, System.Boolean isCancelled) [0x00036] in <9b381bb67a0d4d3ebb273326f9199c6d>:0 
+  at SimpleConsoleApp.PaymentCore.AuthorizationCore.Authorize (SimpleConsoleApp.CmdLine.Options.TransactionOption transaction) [0x000b7] in <9b381bb67a0d4d3ebb273326f9199c6d>:0 
+-----------------------------------------------------------------------------------
+2/14/2020 4:31:27 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/14/2020 4:31:27 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/14/2020 4:31:28 PM :  
+Comando recebido: pagar --valor 0.01 -id 4324769AA54895A85C6891E24A9439EA
+-----------------------------------------------------------------------------------
+2/14/2020 4:31:39 PM :  
+Transação não aprovada, erro: 
+   * Codigo de erro: 
+   * Razao do erro: 
+
+-----------------------------------------------------------------------------------
+2/14/2020 4:31:50 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/14/2020 4:31:50 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/14/2020 4:31:51 PM :  
+Comando recebido: pagar --valor 0.01 -id 267E8AC2B75AB0F71E997DB791CD78BB
+-----------------------------------------------------------------------------------
+2/14/2020 4:32:01 PM :  
+Transação não aprovada, erro: 
+   * Codigo de erro: 
+   * Razao do erro: 
+
+-----------------------------------------------------------------------------------
+2/14/2020 4:32:01 PM :  
+Erro na transação 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at SimpleConsoleApp.PaymentCore.TransactionTableEntry..ctor (Poi.Sdk.Authorization.Report.IAuthorizationReport report, System.Boolean isCancelled) [0x00036] in <9b381bb67a0d4d3ebb273326f9199c6d>:0 
+  at SimpleConsoleApp.PaymentCore.AuthorizationCore.Authorize (SimpleConsoleApp.CmdLine.Options.TransactionOption transaction) [0x000b7] in <9b381bb67a0d4d3ebb273326f9199c6d>:0 
+-----------------------------------------------------------------------------------
+2/14/2020 4:35:43 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/14/2020 4:35:43 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/14/2020 4:35:44 PM :  
+Comando recebido: pagar --valor 0.01 -id 080505268A383F8A61C45B9FC6CDF0BC
+-----------------------------------------------------------------------------------
+2/14/2020 4:44:21 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/14/2020 4:44:21 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/14/2020 4:44:22 PM :  
+Comando recebido: pagar --valor 0.01 -id A3C02B0239900EBB4FDA00049A790D1B
+-----------------------------------------------------------------------------------
+2/14/2020 5:36:11 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/14/2020 5:36:11 PM :  
+Comando recebido: ativar --stonecode 164185121
+-----------------------------------------------------------------------------------
+2/14/2020 5:36:13 PM :  
+Comando recebido: pagar --valor 0.01 -id CAD0C2A703E5FC46E79E57F9B57F001E
+-----------------------------------------------------------------------------------
+2/14/2020 5:36:21 PM :  
+Transação não aprovada, erro: 
+   * Codigo de erro: 
+   * Razao do erro: 
+
+-----------------------------------------------------------------------------------
+2/14/2020 5:36:21 PM :  
+Erro na transação 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at SimpleConsoleApp.PaymentCore.TransactionTableEntry..ctor (Poi.Sdk.Authorization.Report.IAuthorizationReport report, System.Boolean isCancelled) [0x00036] in <9b381bb67a0d4d3ebb273326f9199c6d>:0 
+  at SimpleConsoleApp.PaymentCore.AuthorizationCore.Authorize (SimpleConsoleApp.CmdLine.Options.TransactionOption transaction) [0x000b7] in <9b381bb67a0d4d3ebb273326f9199c6d>:0 
+-----------------------------------------------------------------------------------
+2/14/2020 6:10:28 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/14/2020 6:10:37 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/14/2020 6:10:53 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/14/2020 6:10:53 PM :  
+Comando recebido: echo.py
+-----------------------------------------------------------------------------------
+2/14/2020 6:11:14 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/14/2020 6:11:14 PM :  
+Comando recebido: echo.py
+-----------------------------------------------------------------------------------
+2/14/2020 6:12:06 PM :  
+Comando recebido: conexao_perdida_reconectar
+-----------------------------------------------------------------------------------
+2/14/2020 6:12:06 PM :  
+Comando recebido: echo.py
+-----------------------------------------------------------------------------------

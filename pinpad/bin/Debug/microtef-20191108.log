@@ -1,0 +1,21 @@
+2019-11-08 18:25:58.161 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-08 18:25:58.170 +00:00 [DEBUG] Initiator Transaction Key: 'fc7ffa1e-8516-4616-84c4-2a64b64d35a6'.
+2019-11-08 18:25:58.170 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-08 18:25:58.170 +00:00 [DEBUG] Performing card reading.
+2019-11-08 18:26:00.030 +00:00 [ERROR] Fatal error - Invalid EMV table exception.
+2019-11-08 18:26:00.031 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-08 18:26:00.031 +00:00 [WARNING] Card reading returned status 'InvalidEmvTable' instead of success.
+2019-11-08 18:26:15.442 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-08 18:26:15.442 +00:00 [DEBUG] Initiator Transaction Key: '985d5074-69f6-4f9c-af95-663b5e4d4b64'.
+2019-11-08 18:26:15.442 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-08 18:26:15.442 +00:00 [DEBUG] Performing card reading.
+2019-11-08 18:26:16.211 +00:00 [ERROR] Fatal error - Invalid EMV table exception.
+2019-11-08 18:26:16.211 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-08 18:26:16.211 +00:00 [WARNING] Card reading returned status 'InvalidEmvTable' instead of success.
+2019-11-08 18:29:31.292 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-08 18:29:31.292 +00:00 [DEBUG] Initiator Transaction Key: '3a04c701-d88f-4638-835b-40628d3d3739'.
+2019-11-08 18:29:31.292 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-08 18:29:31.292 +00:00 [DEBUG] Performing card reading.
+2019-11-08 18:29:33.368 +00:00 [ERROR] Fatal error - Invalid EMV table exception.
+2019-11-08 18:29:33.369 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-08 18:29:33.369 +00:00 [WARNING] Card reading returned status 'InvalidEmvTable' instead of success.

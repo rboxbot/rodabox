@@ -1,0 +1,112 @@
+2019-11-14 13:26:56.269 +00:00 [DEBUG] Activating StoneCode '164185121'.
+2019-11-14 13:26:58.860 +00:00 [DEBUG] Activation success status: 'True'.
+2019-11-14 13:26:58.860 +00:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-11-14 13:26:58.861 +00:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-11-14 13:26:59.009 +00:00 [DEBUG] Connection try finished.
+2019-11-14 13:26:59.067 +00:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-11-14 13:26:59.071 +00:00 [DEBUG] Ping initiated.
+2019-11-14 17:18:49.266 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-14 17:18:49.267 +00:00 [DEBUG] Initiator Transaction Key: 'f4be9f7d-2f8c-442d-8eca-c303a365c566'.
+2019-11-14 17:18:49.268 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-14 17:18:49.268 +00:00 [DEBUG] Performing card reading.
+2019-11-14 17:18:52.995 +00:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-11-14 17:18:53.045 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-14 17:18:53.096 +00:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-11-14 17:20:44.000 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-14 17:20:44.000 +00:00 [DEBUG] Initiator Transaction Key: 'd8c14bde-0ad3-43fa-bb6e-b201f09d1bf2'.
+2019-11-14 17:20:44.000 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-14 17:20:44.001 +00:00 [DEBUG] Performing card reading.
+2019-11-14 17:20:48.727 +00:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-11-14 17:20:48.777 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-14 17:20:48.828 +00:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-11-14 17:21:32.985 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-14 17:21:32.985 +00:00 [DEBUG] Initiator Transaction Key: '10647514-ec27-4e17-90d6-566c09421d61'.
+2019-11-14 17:21:32.985 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-14 17:21:32.985 +00:00 [DEBUG] Performing card reading.
+2019-11-14 17:21:36.358 +00:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-11-14 17:21:36.408 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-14 17:21:36.458 +00:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-11-14 17:24:11.943 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-14 17:24:11.944 +00:00 [DEBUG] Initiator Transaction Key: '7ad7dee2-2aad-4ad6-8a4a-f50d8767eb92'.
+2019-11-14 17:24:11.944 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-14 17:24:11.944 +00:00 [DEBUG] Performing card reading.
+2019-11-14 17:24:20.613 +00:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-11-14 17:24:20.663 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-14 17:24:20.713 +00:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-11-14 17:24:21.718 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-14 17:24:21.718 +00:00 [DEBUG] Initiator Transaction Key: '41a60dfa-5fba-4c7e-b0af-de40d3d185fa'.
+2019-11-14 17:24:21.719 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-14 17:24:21.719 +00:00 [DEBUG] Performing card reading.
+2019-11-14 17:24:51.851 +00:00 [DEBUG] Card reading status: 'TimeOut'.
+2019-11-14 17:24:51.900 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-14 17:24:51.949 +00:00 [WARNING] Card reading returned status 'TimeOut' instead of success.
+2019-11-14 17:25:46.429 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-14 17:25:46.429 +00:00 [DEBUG] Initiator Transaction Key: '9e12ff5f-76b8-4f03-8145-473fc9a76b95'.
+2019-11-14 17:25:46.429 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-14 17:25:46.429 +00:00 [DEBUG] Performing card reading.
+2019-11-14 17:25:48.716 +00:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-11-14 17:25:48.766 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-14 17:25:48.816 +00:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-11-14 17:27:30.752 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-14 17:27:30.752 +00:00 [DEBUG] Initiator Transaction Key: 'a044852e-ea41-4e16-bb74-ce4090c35b3c'.
+2019-11-14 17:27:30.752 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-14 17:27:30.752 +00:00 [DEBUG] Performing card reading.
+2019-11-14 17:27:36.697 +00:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-11-14 17:27:36.747 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-14 17:27:36.797 +00:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-11-14 17:27:37.801 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-14 17:27:37.801 +00:00 [DEBUG] Initiator Transaction Key: 'aeb48cbc-09cb-4f67-b3e7-e7dd2f986bb5'.
+2019-11-14 17:27:37.801 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-14 17:27:37.801 +00:00 [DEBUG] Performing card reading.
+2019-11-14 17:28:07.936 +00:00 [DEBUG] Card reading status: 'TimeOut'.
+2019-11-14 17:28:07.985 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-14 17:28:08.033 +00:00 [WARNING] Card reading returned status 'TimeOut' instead of success.
+2019-11-14 17:29:07.047 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-14 17:29:07.048 +00:00 [DEBUG] Initiator Transaction Key: 'c1308c36-0631-4c0d-a3e7-7c4b61246b24'.
+2019-11-14 17:29:07.048 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-14 17:29:07.048 +00:00 [DEBUG] Performing card reading.
+2019-11-14 17:29:09.591 +00:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-11-14 17:29:09.641 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-14 17:29:09.691 +00:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-11-14 17:29:47.514 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-14 17:29:47.514 +00:00 [DEBUG] Initiator Transaction Key: 'fbfb000d-a2eb-45bf-b5cd-414aa9978cd0'.
+2019-11-14 17:29:47.515 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-14 17:29:47.515 +00:00 [DEBUG] Performing card reading.
+2019-11-14 17:29:49.521 +00:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-11-14 17:29:49.572 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-14 17:29:49.623 +00:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-11-14 17:30:13.768 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-14 17:30:13.768 +00:00 [DEBUG] Initiator Transaction Key: '362fdecb-7ef9-44f7-ae44-9ef42998ffbc'.
+2019-11-14 17:30:13.768 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-14 17:30:13.768 +00:00 [DEBUG] Performing card reading.
+2019-11-14 17:30:23.532 +00:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-11-14 17:30:23.581 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-14 17:30:23.631 +00:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-11-14 17:33:19.175 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-14 17:33:19.176 +00:00 [DEBUG] Initiator Transaction Key: '7d273b51-e829-4292-a890-b0f4cfe9b7fb'.
+2019-11-14 17:33:19.176 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-14 17:33:19.176 +00:00 [DEBUG] Performing card reading.
+2019-11-14 17:33:37.717 +00:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-11-14 17:33:37.766 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-14 17:33:37.816 +00:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-11-14 17:37:29.175 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-14 17:37:29.175 +00:00 [DEBUG] Initiator Transaction Key: 'fba4a167-7b0e-47bc-8b9c-be8dd56df81e'.
+2019-11-14 17:37:29.175 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-14 17:37:29.175 +00:00 [DEBUG] Performing card reading.
+2019-11-14 17:37:33.084 +00:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-11-14 17:37:33.134 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-14 17:37:33.185 +00:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-11-14 17:40:48.639 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-14 17:40:48.639 +00:00 [DEBUG] Initiator Transaction Key: '32e4697f-586d-48a4-a3d4-197cc437101a'.
+2019-11-14 17:40:48.640 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-14 17:40:48.640 +00:00 [DEBUG] Performing card reading.
+2019-11-14 17:41:03.190 +00:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-11-14 17:41:03.239 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-14 17:41:03.289 +00:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-11-14 17:42:41.418 +00:00 [DEBUG] Initiating 'Authorize' flow.
+2019-11-14 17:42:41.418 +00:00 [DEBUG] Initiator Transaction Key: '86f32816-bcd7-4bb6-ae19-4ccaf8f874ed'.
+2019-11-14 17:42:41.418 +00:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-11-14 17:42:41.418 +00:00 [DEBUG] Performing card reading.
+2019-11-14 17:42:49.722 +00:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-11-14 17:42:49.772 +00:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-11-14 17:42:49.821 +00:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.

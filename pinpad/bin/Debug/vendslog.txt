@@ -1,0 +1,144 @@
+11/27/2019 3:09:48 PM :  
+   * Stone ID: 43195026341099
+   * Valor: 0.05
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+11/27/2019 3:23:15 PM :  
+   * Stone ID: 43195026470677
+   * Valor: 0.05
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+11/27/2019 4:21:26 PM :  
+   * Stone ID: 43195027054893
+   * Valor: 0.05
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+11/28/2019 12:55:15 PM :  
+   * Stone ID: 43295034099212
+   * Valor: 0.01
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+11/28/2019 12:56:47 PM :  
+   * Stone ID: 43295034124708
+   * Valor: 0.01
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+11/28/2019 1:13:28 PM :  
+   * Stone ID: 43295034392252
+   * Valor: 0.01
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+11/28/2019 4:12:24 PM :  
+   * Stone ID: 43295036374078
+   * Valor: 0.01
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+11/28/2019 4:26:20 PM :  
+   * Stone ID: 43295036521446
+   * Valor: 0.01
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+11/28/2019 4:29:44 PM :  
+   * Stone ID: 43295036557378
+   * Valor: 0.01
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+12/12/2019 11:05:35 AM :  
+   * Stone ID: 44695178963823
+   * Valor: 0.01
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+12/12/2019 11:08:11 AM :  
+   * Stone ID: 44695178992496
+   * Valor: 0.01
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+12/12/2019 11:26:51 AM :  
+   * Stone ID: 44695179213799
+   * Valor: 0.01
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+12/12/2019 11:28:57 AM :  
+   * Stone ID: 44695179241488
+   * Valor: 0.01
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+12/12/2019 11:33:18 AM :  
+   * Stone ID: 44695179298253
+   * Valor: 0.01
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+12/12/2019 11:34:48 AM :  
+   * Stone ID: 44695179318818
+   * Valor: 0.01
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+12/12/2019 11:36:45 AM :  
+   * Stone ID: 44695179345426
+   * Valor: 0.01
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+12/12/2019 11:37:41 AM :  
+   * Stone ID: 44695179358064
+   * Valor: 0.01
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------
+12/12/2019 11:39:52 AM :  
+   * Stone ID: 44695179388504
+   * Valor: 0.01
+   * Tipo: Credito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+
+-----------------------------------------------------------------------------------

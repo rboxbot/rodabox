@@ -1,0 +1,1039 @@
+2019-12-02 10:23:03.417 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 10:23:06.245 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 10:23:06.245 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 10:23:06.245 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 10:23:06.254 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 10:23:06.862 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 10:23:06.862 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 10:23:06.862 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 10:27:13.385 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 10:27:16.393 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 10:27:16.393 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 10:27:16.403 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 10:49:02.676 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 10:49:06.106 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 10:49:06.106 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 10:49:06.106 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 10:49:06.112 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 10:49:07.257 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 10:49:07.257 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 10:49:07.257 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 10:49:35.626 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 10:49:36.134 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 10:49:36.134 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 10:49:36.134 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 10:49:36.138 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 10:49:36.648 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 10:49:36.648 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 10:49:36.648 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 10:52:36.948 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 10:52:39.880 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 10:52:39.880 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 10:52:39.880 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 10:52:43.243 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 10:52:43.961 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 10:52:43.961 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 10:52:43.961 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 10:52:48.096 -03:00 [DEBUG] Connection try finished.
+2019-12-02 10:52:48.158 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 10:52:48.159 -03:00 [DEBUG] Ping initiated.
+2019-12-02 10:53:04.178 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 10:53:04.178 -03:00 [DEBUG] Initiator Transaction Key: '9c019ef8-2b28-42ce-ae13-66c06ecac6ec'.
+2019-12-02 10:53:04.178 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 10:53:04.178 -03:00 [DEBUG] Performing card reading.
+2019-12-02 10:56:55.665 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 10:56:59.462 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 10:56:59.462 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 10:56:59.464 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 10:56:59.665 -03:00 [DEBUG] Connection try finished.
+2019-12-02 10:56:59.722 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 10:56:59.726 -03:00 [DEBUG] Ping initiated.
+2019-12-02 10:56:59.767 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 10:57:00.222 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 10:57:00.222 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 10:57:00.222 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 10:57:00.341 -03:00 [DEBUG] Connection try finished.
+2019-12-02 10:57:00.390 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 10:57:00.395 -03:00 [DEBUG] Ping initiated.
+2019-12-02 10:57:09.659 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 10:57:09.660 -03:00 [DEBUG] Initiator Transaction Key: '63842bdd-5efa-4f6f-afa1-8d87f153a043'.
+2019-12-02 10:57:09.660 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 10:57:09.660 -03:00 [DEBUG] Performing card reading.
+2019-12-02 10:58:53.518 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 10:58:55.846 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 10:58:55.846 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 10:58:55.846 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 10:58:55.970 -03:00 [DEBUG] Connection try finished.
+2019-12-02 10:58:56.018 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 10:58:56.019 -03:00 [DEBUG] Ping initiated.
+2019-12-02 10:58:56.020 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 10:58:56.580 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 10:58:56.581 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 10:58:56.583 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 10:58:56.701 -03:00 [DEBUG] Connection try finished.
+2019-12-02 10:58:56.749 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 10:58:56.750 -03:00 [DEBUG] Ping initiated.
+2019-12-02 10:59:05.840 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 10:59:05.840 -03:00 [DEBUG] Initiator Transaction Key: 'ee44bff0-8815-4cf7-ae77-12187d31d2ef'.
+2019-12-02 10:59:05.840 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 10:59:05.840 -03:00 [DEBUG] Performing card reading.
+2019-12-02 10:59:34.951 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 10:59:35.407 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 10:59:35.407 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 10:59:35.407 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 10:59:35.527 -03:00 [DEBUG] Connection try finished.
+2019-12-02 10:59:35.576 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 10:59:35.576 -03:00 [DEBUG] Ping initiated.
+2019-12-02 10:59:35.578 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 10:59:36.144 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 10:59:36.144 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 10:59:36.144 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 10:59:36.260 -03:00 [DEBUG] Connection try finished.
+2019-12-02 10:59:36.309 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 10:59:36.310 -03:00 [DEBUG] Ping initiated.
+2019-12-02 10:59:42.841 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 10:59:42.841 -03:00 [DEBUG] Initiator Transaction Key: '7c569ed7-27e9-4e1d-b134-c91538e615d1'.
+2019-12-02 10:59:42.842 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 10:59:42.842 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:00:20.742 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:00:20.742 -03:00 [DEBUG] Initiator Transaction Key: '3894b228-ec52-43d4-a80a-f5c3fd48d7e4'.
+2019-12-02 11:00:20.742 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:00:20.742 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:00:24.436 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 11:00:24.485 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:00:24.535 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-12-02 11:00:35.026 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:00:35.026 -03:00 [DEBUG] Initiator Transaction Key: '3818d56d-8cae-41d6-a5c9-8a7d3e5542d2'.
+2019-12-02 11:00:35.027 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:00:35.027 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:00:52.261 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 11:00:52.311 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:00:52.361 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-12-02 11:00:59.608 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:00:59.608 -03:00 [DEBUG] Initiator Transaction Key: '5e2639d1-437d-4475-8744-2cdcc7e5c723'.
+2019-12-02 11:00:59.608 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:00:59.608 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:01:22.179 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 11:01:22.229 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:01:22.279 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-12-02 11:04:36.411 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:04:40.166 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:04:40.166 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:04:40.166 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:04:40.282 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:04:40.331 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:04:40.331 -03:00 [DEBUG] Ping initiated.
+2019-12-02 11:14:17.824 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:14:20.584 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:14:20.584 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:14:20.584 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:14:20.704 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:14:20.753 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:14:20.753 -03:00 [DEBUG] Ping initiated.
+2019-12-02 11:14:20.756 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:14:21.413 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:14:21.413 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:14:21.414 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:14:21.531 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:14:21.580 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:14:21.582 -03:00 [DEBUG] Ping initiated.
+2019-12-02 11:14:34.023 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:14:34.024 -03:00 [DEBUG] Initiator Transaction Key: 'e1952998-8c95-4f82-bdf9-9f853b8211bf'.
+2019-12-02 11:14:34.024 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:14:34.024 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:14:55.713 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:14:55.713 -03:00 [DEBUG] Initiator Transaction Key: '8b796a6e-a55e-4a37-8cac-d7acaad13a29'.
+2019-12-02 11:14:55.713 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:14:55.713 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:14:57.402 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 11:14:57.451 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:14:57.501 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-12-02 11:15:05.511 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:15:05.511 -03:00 [DEBUG] Initiator Transaction Key: '68344c21-5219-4243-8707-37f40afdc8a4'.
+2019-12-02 11:15:05.511 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:15:05.511 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:15:12.945 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 11:15:12.995 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:15:13.045 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-12-02 11:15:13.050 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:15:13.050 -03:00 [DEBUG] Initiator Transaction Key: '82306887-9c3c-47fd-b36a-36a654841109'.
+2019-12-02 11:15:13.050 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:15:13.050 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:15:14.620 -03:00 [DEBUG] Card reading status: 'NoneCardDetected'.
+2019-12-02 11:15:14.670 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:15:14.718 -03:00 [WARNING] Card reading returned status 'NoneCardDetected' instead of success.
+2019-12-02 11:15:55.170 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:15:55.170 -03:00 [DEBUG] Initiator Transaction Key: 'dfb668ce-01a6-4b42-a30e-e1843aaad0d4'.
+2019-12-02 11:15:55.170 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:15:55.170 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:16:25.282 -03:00 [DEBUG] Card reading status: 'TimeOut'.
+2019-12-02 11:16:25.331 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:16:25.380 -03:00 [WARNING] Card reading returned status 'TimeOut' instead of success.
+2019-12-02 11:16:36.079 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:16:36.079 -03:00 [DEBUG] Initiator Transaction Key: '6376b5ec-6028-4d01-bcde-8d653298277b'.
+2019-12-02 11:16:36.079 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:16:36.079 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:16:40.993 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 11:16:41.042 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:16:41.092 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-12-02 11:16:50.360 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:16:50.360 -03:00 [DEBUG] Initiator Transaction Key: '5f6b41f0-5a10-475b-aa2c-1df9f94212d5'.
+2019-12-02 11:16:50.360 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:16:50.360 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:17:15.378 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 11:17:15.428 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:17:15.477 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-12-02 11:17:23.902 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:17:23.902 -03:00 [DEBUG] Initiator Transaction Key: '68578599-4342-4e6c-a2bb-ee90e8a58e8b'.
+2019-12-02 11:17:23.902 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:17:23.902 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:17:28.443 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 11:17:28.492 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:17:28.542 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-12-02 11:19:21.602 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:19:24.301 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:19:24.301 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:19:24.301 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:19:24.422 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:19:24.471 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:19:24.471 -03:00 [DEBUG] Ping initiated.
+2019-12-02 11:22:59.294 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:23:02.695 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:23:02.695 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:23:02.696 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:23:02.838 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:23:02.894 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:23:02.897 -03:00 [DEBUG] Ping initiated.
+2019-12-02 11:23:02.926 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:23:03.571 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:23:03.571 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:23:03.571 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:23:03.690 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:23:03.740 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:23:03.740 -03:00 [DEBUG] Ping initiated.
+2019-12-02 11:23:09.720 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:23:09.721 -03:00 [DEBUG] Initiator Transaction Key: 'e36091fd-bd94-4213-adc8-1dd0902ee819'.
+2019-12-02 11:23:09.721 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:23:09.722 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:23:13.444 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 11:23:13.494 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:23:13.544 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-12-02 11:23:23.384 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:23:23.384 -03:00 [DEBUG] Initiator Transaction Key: '2fef6af7-c689-4826-b1a8-560b71f53c57'.
+2019-12-02 11:23:23.384 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:23:23.385 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:23:30.454 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 11:23:30.503 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:23:30.553 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-12-02 11:23:51.466 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:23:55.143 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:23:55.143 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:23:55.144 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:23:55.305 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:23:55.360 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:23:55.362 -03:00 [DEBUG] Ping initiated.
+2019-12-02 11:23:55.409 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:23:55.730 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:23:55.731 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:23:55.731 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:23:55.850 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:23:55.898 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:23:55.900 -03:00 [DEBUG] Ping initiated.
+2019-12-02 11:24:00.583 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:24:00.584 -03:00 [DEBUG] Initiator Transaction Key: '3251a53a-5345-42e7-a964-8c8093788b5d'.
+2019-12-02 11:24:00.584 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:24:00.585 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:24:05.141 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 11:24:05.191 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:24:05.241 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-12-02 11:24:11.012 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:24:11.012 -03:00 [DEBUG] Initiator Transaction Key: '953a9547-b167-430b-ae2b-a1b8ede5dd07'.
+2019-12-02 11:24:11.012 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:24:11.012 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:24:41.141 -03:00 [DEBUG] Card reading status: 'TimeOut'.
+2019-12-02 11:24:41.189 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:24:41.238 -03:00 [WARNING] Card reading returned status 'TimeOut' instead of success.
+2019-12-02 11:26:19.791 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:26:23.562 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:26:23.563 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:26:23.565 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:26:23.728 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:26:23.786 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:26:23.790 -03:00 [DEBUG] Ping initiated.
+2019-12-02 11:26:23.837 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:26:24.177 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:26:24.177 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:26:24.177 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:26:24.294 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:26:24.343 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:26:24.343 -03:00 [DEBUG] Ping initiated.
+2019-12-02 11:26:27.623 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:26:27.623 -03:00 [DEBUG] Initiator Transaction Key: '4f4f8bcb-a64f-40b6-a88d-4577424f8903'.
+2019-12-02 11:26:27.624 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:26:27.624 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:26:31.554 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 11:26:31.604 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:26:31.654 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-12-02 11:26:34.104 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:26:34.104 -03:00 [DEBUG] Initiator Transaction Key: '030c8bce-da7d-47ab-a506-d0dfa8915406'.
+2019-12-02 11:26:34.104 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:26:34.104 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:26:37.603 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 11:26:37.652 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 11:26:37.702 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-12-02 11:31:24.443 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:31:50.699 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:31:50.699 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:31:50.699 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:31:50.817 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:31:50.870 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:31:50.870 -03:00 [DEBUG] Ping initiated.
+2019-12-02 11:33:13.216 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 11:33:13.216 -03:00 [DEBUG] Initiator Transaction Key: '76d5c7c4-0c09-4adc-80b2-628580a5a5fa'.
+2019-12-02 11:33:13.216 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 11:33:13.216 -03:00 [DEBUG] Performing card reading.
+2019-12-02 11:36:50.952 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:36:53.574 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:36:53.574 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:36:53.574 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:36:53.695 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:36:53.744 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:36:53.744 -03:00 [DEBUG] Ping initiated.
+2019-12-02 11:41:53.844 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:41:56.387 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:41:56.387 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:41:56.390 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:41:56.510 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:41:56.559 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:41:56.560 -03:00 [DEBUG] Ping initiated.
+2019-12-02 11:46:56.662 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:46:59.505 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:46:59.505 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:46:59.505 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:46:59.624 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:46:59.673 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:46:59.674 -03:00 [DEBUG] Ping initiated.
+2019-12-02 11:51:59.772 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:52:02.330 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:52:02.331 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:52:02.331 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:52:02.451 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:52:02.500 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:52:02.500 -03:00 [DEBUG] Ping initiated.
+2019-12-02 11:57:02.600 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 11:57:05.509 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 11:57:05.509 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 11:57:05.509 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 11:57:05.630 -03:00 [DEBUG] Connection try finished.
+2019-12-02 11:57:05.679 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 11:57:05.680 -03:00 [DEBUG] Ping initiated.
+2019-12-02 12:02:05.693 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 12:02:08.114 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 12:02:08.114 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 12:02:08.114 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 12:02:08.234 -03:00 [DEBUG] Connection try finished.
+2019-12-02 12:02:08.283 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 12:02:08.284 -03:00 [DEBUG] Ping initiated.
+2019-12-02 12:07:08.385 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 12:07:10.726 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 12:07:10.726 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 12:07:10.726 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 12:07:10.846 -03:00 [DEBUG] Connection try finished.
+2019-12-02 12:07:10.895 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 12:07:10.896 -03:00 [DEBUG] Ping initiated.
+2019-12-02 12:12:10.996 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 12:12:13.522 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 12:12:13.522 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 12:12:13.522 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 12:12:13.643 -03:00 [DEBUG] Connection try finished.
+2019-12-02 12:12:13.692 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 12:12:13.692 -03:00 [DEBUG] Ping initiated.
+2019-12-02 12:17:13.794 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 12:17:16.029 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 12:17:16.029 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 12:17:16.029 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 12:17:16.148 -03:00 [DEBUG] Connection try finished.
+2019-12-02 12:17:16.197 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 12:17:16.198 -03:00 [DEBUG] Ping initiated.
+2019-12-02 12:22:16.296 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 12:22:19.135 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 12:22:19.135 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 12:22:19.138 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 12:22:19.256 -03:00 [DEBUG] Connection try finished.
+2019-12-02 12:22:19.305 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 12:22:19.305 -03:00 [DEBUG] Ping initiated.
+2019-12-02 12:27:19.404 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 12:27:22.962 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 12:27:22.962 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 12:27:22.962 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 12:27:23.082 -03:00 [DEBUG] Connection try finished.
+2019-12-02 12:27:23.131 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 12:27:23.131 -03:00 [DEBUG] Ping initiated.
+2019-12-02 12:32:23.232 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 12:32:25.562 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 12:32:25.562 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 12:32:25.562 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 12:32:25.682 -03:00 [DEBUG] Connection try finished.
+2019-12-02 12:32:25.731 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 12:32:25.732 -03:00 [DEBUG] Ping initiated.
+2019-12-02 12:37:25.832 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 12:37:28.655 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 12:37:28.655 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 12:37:28.655 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 12:37:28.776 -03:00 [DEBUG] Connection try finished.
+2019-12-02 12:37:28.824 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 12:37:28.825 -03:00 [DEBUG] Ping initiated.
+2019-12-02 12:42:28.924 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 12:42:46.247 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 12:42:46.248 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 12:42:46.248 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 12:42:46.368 -03:00 [DEBUG] Connection try finished.
+2019-12-02 12:42:46.417 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 12:42:46.417 -03:00 [DEBUG] Ping initiated.
+2019-12-02 12:46:13.673 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 12:46:13.673 -03:00 [DEBUG] Initiator Transaction Key: '6182a182-bc24-49d0-8ef2-d0c6252884c6'.
+2019-12-02 12:46:13.673 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 12:46:13.673 -03:00 [DEBUG] Performing card reading.
+2019-12-02 12:46:54.354 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 12:46:54.354 -03:00 [DEBUG] Initiator Transaction Key: '65b777b8-ec4a-4627-a639-015d43fad88e'.
+2019-12-02 12:46:54.354 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 12:46:54.354 -03:00 [DEBUG] Performing card reading.
+2019-12-02 12:47:00.677 -03:00 [DEBUG] Card reading status: 'Ok'.
+2019-12-02 12:47:00.727 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 12:47:00.728 -03:00 [DEBUG] Card reading returned success.
+2019-12-02 12:47:00.728 -03:00 [DEBUG] Reading cardholder password.
+2019-12-02 12:47:00.729 -03:00 [DEBUG] Initiating 'ReadPassword' flow.
+2019-12-02 12:47:00.729 -03:00 [DEBUG] Reading cardholder password.
+2019-12-02 12:47:12.020 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 12:47:12.020 -03:00 [DEBUG] PIN not read because cardholder cancelled the transaction.
+2019-12-02 12:47:12.021 -03:00 [ERROR] PIN not read due to unexpected error.
+2019-12-02 12:47:12.072 -03:00 [DEBUG] Finishing 'ReadPassword' flow.
+2019-12-02 12:47:12.123 -03:00 [WARNING] Password reading returned status 'OperationCancelled' instead of success.
+2019-12-02 12:47:46.517 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 12:47:48.269 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 12:47:48.269 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 12:47:48.269 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 12:47:48.391 -03:00 [DEBUG] Connection try finished.
+2019-12-02 12:47:48.440 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 12:47:48.442 -03:00 [DEBUG] Ping initiated.
+2019-12-02 12:48:57.486 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 12:48:57.486 -03:00 [DEBUG] Initiator Transaction Key: 'bc729d2f-bf71-4a2d-92ee-162fc2c2b3db'.
+2019-12-02 12:48:57.486 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 12:48:57.486 -03:00 [DEBUG] Performing card reading.
+2019-12-02 12:49:06.020 -03:00 [DEBUG] Card reading status: 'Ok'.
+2019-12-02 12:49:06.071 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 12:49:06.071 -03:00 [DEBUG] Card reading returned success.
+2019-12-02 12:49:06.071 -03:00 [DEBUG] Reading cardholder password.
+2019-12-02 12:49:06.071 -03:00 [DEBUG] Initiating 'ReadPassword' flow.
+2019-12-02 12:49:06.071 -03:00 [DEBUG] Reading cardholder password.
+2019-12-02 12:49:07.343 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 12:49:07.344 -03:00 [DEBUG] PIN not read because cardholder cancelled the transaction.
+2019-12-02 12:49:07.344 -03:00 [ERROR] PIN not read due to unexpected error.
+2019-12-02 12:49:07.394 -03:00 [DEBUG] Finishing 'ReadPassword' flow.
+2019-12-02 12:49:07.444 -03:00 [WARNING] Password reading returned status 'OperationCancelled' instead of success.
+2019-12-02 12:50:22.910 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 12:50:24.776 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 12:50:24.776 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 12:50:24.776 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 12:50:24.896 -03:00 [DEBUG] Connection try finished.
+2019-12-02 12:50:24.944 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 12:50:24.945 -03:00 [DEBUG] Ping initiated.
+2019-12-02 12:50:24.946 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 12:50:25.659 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 12:50:25.659 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 12:50:25.659 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 12:50:25.776 -03:00 [DEBUG] Connection try finished.
+2019-12-02 12:50:25.825 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 12:50:25.826 -03:00 [DEBUG] Ping initiated.
+2019-12-02 12:50:25.828 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 12:50:25.828 -03:00 [DEBUG] Initiator Transaction Key: '051e359b-d8b2-49d7-9e80-6ae58ba92d07'.
+2019-12-02 12:50:25.828 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 12:50:25.828 -03:00 [DEBUG] Performing card reading.
+2019-12-02 12:50:35.179 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 12:50:35.230 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 12:50:35.280 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-12-02 12:53:33.459 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 12:53:33.459 -03:00 [DEBUG] Initiator Transaction Key: '5a4ba8b6-3bae-459a-bbde-513617d0caca'.
+2019-12-02 12:53:33.459 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 12:53:33.459 -03:00 [DEBUG] Performing card reading.
+2019-12-02 12:53:45.561 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 12:53:45.561 -03:00 [DEBUG] Initiator Transaction Key: 'e13ecd84-7e8c-4428-8cd6-fbfda8eefd5d'.
+2019-12-02 12:53:45.561 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 12:53:45.561 -03:00 [DEBUG] Performing card reading.
+2019-12-02 12:53:50.721 -03:00 [DEBUG] Card reading status: 'Ok'.
+2019-12-02 12:53:50.772 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 12:53:50.772 -03:00 [DEBUG] Card reading returned success.
+2019-12-02 12:53:50.772 -03:00 [DEBUG] Reading cardholder password.
+2019-12-02 12:53:50.772 -03:00 [DEBUG] Initiating 'ReadPassword' flow.
+2019-12-02 12:53:50.772 -03:00 [DEBUG] Reading cardholder password.
+2019-12-02 12:53:51.931 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 12:53:51.932 -03:00 [DEBUG] PIN not read because cardholder cancelled the transaction.
+2019-12-02 12:53:51.934 -03:00 [ERROR] PIN not read due to unexpected error.
+2019-12-02 12:53:51.985 -03:00 [DEBUG] Finishing 'ReadPassword' flow.
+2019-12-02 12:53:52.035 -03:00 [WARNING] Password reading returned status 'OperationCancelled' instead of success.
+2019-12-02 12:55:23.290 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 12:55:25.684 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 12:55:25.685 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 12:55:25.685 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 12:55:25.804 -03:00 [DEBUG] Connection try finished.
+2019-12-02 12:55:25.853 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 12:55:25.854 -03:00 [DEBUG] Ping initiated.
+2019-12-02 12:55:25.855 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 12:55:26.320 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 12:55:26.320 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 12:55:26.320 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 12:55:26.440 -03:00 [DEBUG] Connection try finished.
+2019-12-02 12:55:26.489 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 12:55:26.490 -03:00 [DEBUG] Ping initiated.
+2019-12-02 13:00:26.496 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 13:00:28.596 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 13:00:28.596 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 13:00:28.596 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 13:00:28.718 -03:00 [DEBUG] Connection try finished.
+2019-12-02 13:00:28.766 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 13:00:28.767 -03:00 [DEBUG] Ping initiated.
+2019-12-02 13:02:44.149 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 13:02:44.149 -03:00 [DEBUG] Initiator Transaction Key: 'e39c008a-f33b-4a4d-bfb6-de1082d38a89'.
+2019-12-02 13:02:44.149 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 13:02:44.149 -03:00 [DEBUG] Performing card reading.
+2019-12-02 13:05:28.869 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 13:05:42.659 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 13:05:42.660 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 13:05:42.660 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 13:05:42.781 -03:00 [DEBUG] Connection try finished.
+2019-12-02 13:05:42.830 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 13:05:42.831 -03:00 [DEBUG] Ping initiated.
+2019-12-02 13:10:42.931 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 13:10:45.072 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 13:10:45.073 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 13:10:45.073 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 13:10:45.191 -03:00 [DEBUG] Connection try finished.
+2019-12-02 13:10:45.241 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 13:10:45.241 -03:00 [DEBUG] Ping initiated.
+2019-12-02 13:15:45.343 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 13:15:47.869 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 13:15:47.870 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 13:15:47.870 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 13:15:47.990 -03:00 [DEBUG] Connection try finished.
+2019-12-02 13:15:48.039 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 13:15:48.040 -03:00 [DEBUG] Ping initiated.
+2019-12-02 13:18:58.040 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2019-12-02 13:18:58.040 -03:00 [DEBUG] Initiator Transaction Key: '44176c9c-b00a-41b6-b6d3-79305f8de8e1'.
+2019-12-02 13:18:58.040 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2019-12-02 13:18:58.040 -03:00 [DEBUG] Performing card reading.
+2019-12-02 13:19:07.663 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2019-12-02 13:19:07.713 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2019-12-02 13:19:07.763 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2019-12-02 13:20:48.140 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 13:21:02.177 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 13:21:02.177 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 13:21:02.177 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 13:21:02.296 -03:00 [DEBUG] Connection try finished.
+2019-12-02 13:21:02.345 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 13:21:02.345 -03:00 [DEBUG] Ping initiated.
+2019-12-02 13:26:02.444 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 13:26:05.376 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 13:26:05.376 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 13:26:05.376 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 13:26:05.496 -03:00 [DEBUG] Connection try finished.
+2019-12-02 13:26:05.545 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 13:26:05.546 -03:00 [DEBUG] Ping initiated.
+2019-12-02 13:31:05.575 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 13:31:08.344 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 13:31:08.344 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 13:31:08.344 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 13:31:08.464 -03:00 [DEBUG] Connection try finished.
+2019-12-02 13:31:08.513 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 13:31:08.514 -03:00 [DEBUG] Ping initiated.
+2019-12-02 13:36:08.611 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 13:36:11.076 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 13:36:11.077 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 13:36:11.077 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 13:36:11.197 -03:00 [DEBUG] Connection try finished.
+2019-12-02 13:36:11.246 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 13:36:11.247 -03:00 [DEBUG] Ping initiated.
+2019-12-02 13:41:11.348 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 13:41:13.113 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 13:41:13.113 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 13:41:13.113 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 13:41:13.233 -03:00 [DEBUG] Connection try finished.
+2019-12-02 13:41:13.281 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 13:41:13.282 -03:00 [DEBUG] Ping initiated.
+2019-12-02 13:46:13.384 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 13:46:15.369 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 13:46:15.369 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 13:46:15.369 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 13:46:15.488 -03:00 [DEBUG] Connection try finished.
+2019-12-02 13:46:15.536 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-12-02 13:46:15.538 -03:00 [DEBUG] Ping initiated.
+2019-12-02 13:51:15.640 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 13:51:18.441 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 13:51:18.441 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 13:51:18.441 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 13:56:18.463 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 13:56:21.345 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 13:56:21.345 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 13:56:21.345 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 14:01:21.365 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 14:01:24.142 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 14:01:24.142 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 14:01:24.142 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 14:06:24.255 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 14:06:27.042 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 14:06:27.043 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 14:06:27.043 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 14:11:27.108 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 14:11:29.390 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 14:11:29.391 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 14:11:29.391 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 14:16:29.426 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 14:16:32.518 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 14:16:32.519 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 14:16:32.519 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 14:21:32.625 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 14:21:35.049 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 14:21:35.049 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 14:21:35.049 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 14:26:35.136 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 14:26:37.461 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 14:26:37.461 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 14:26:37.461 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 14:31:37.555 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 14:31:39.834 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 14:31:39.834 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 14:31:39.834 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 14:36:39.868 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 14:36:42.205 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 14:36:42.205 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 14:36:42.205 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 14:41:42.311 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 14:41:45.098 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 14:41:45.098 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 14:41:45.098 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 14:46:45.204 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 14:46:47.693 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 14:46:47.693 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 14:46:47.693 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 14:51:47.776 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 14:52:11.336 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 14:52:11.336 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 14:52:11.336 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 14:57:11.441 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 14:57:14.229 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 14:57:14.229 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 14:57:14.237 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 15:02:14.324 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 15:02:17.135 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 15:02:17.135 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 15:02:17.135 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 15:07:17.205 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 15:07:19.735 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 15:07:19.735 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 15:07:19.735 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 15:12:19.789 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 15:12:22.378 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 15:12:22.378 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 15:12:22.379 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 15:17:22.429 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 15:17:25.505 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 15:17:25.505 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 15:17:25.505 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 15:22:25.628 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 15:22:27.944 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 15:22:27.944 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 15:22:27.944 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 15:27:28.048 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 15:27:30.905 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 15:27:30.906 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 15:27:30.906 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 15:32:30.983 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 15:32:33.576 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 15:32:33.576 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 15:32:33.576 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 15:37:33.680 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 15:37:36.559 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 15:37:36.559 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 15:37:36.559 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 15:42:36.665 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 15:42:39.448 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 15:42:39.448 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 15:42:39.448 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 15:47:39.552 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 15:47:42.038 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 15:47:42.038 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 15:47:42.038 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 15:52:42.144 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 15:52:45.333 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 15:52:45.334 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 15:52:45.334 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 15:57:45.436 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 15:57:48.228 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 15:57:48.229 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 15:57:48.229 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 16:02:48.318 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 16:02:51.066 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 16:02:51.066 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 16:02:51.066 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 16:07:51.172 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 16:07:53.903 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 16:07:53.904 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 16:07:53.904 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 16:12:54.010 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 16:12:57.009 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 16:12:57.009 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 16:12:57.009 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 16:17:57.083 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 16:18:00.116 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 16:18:00.117 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 16:18:00.117 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 16:23:00.219 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 16:23:03.014 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 16:23:03.014 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 16:23:03.014 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 16:28:03.119 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 16:28:05.916 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 16:28:05.916 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 16:28:05.916 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 16:33:05.995 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 16:33:08.445 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 16:33:08.445 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 16:33:08.445 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 16:38:08.552 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 16:38:11.346 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 16:38:11.346 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 16:38:11.346 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 16:43:11.452 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 16:43:14.106 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 16:43:14.106 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 16:43:14.108 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 16:48:14.212 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 16:48:40.532 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 16:48:40.532 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 16:48:40.532 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 16:53:40.608 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 16:53:43.412 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 16:53:43.413 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 16:53:43.415 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 16:58:43.480 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 16:58:46.302 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 16:58:46.302 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 16:58:46.302 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 17:03:46.400 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 17:03:49.287 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 17:03:49.287 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 17:03:49.287 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 17:08:49.392 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 17:08:52.174 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 17:08:52.174 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 17:08:52.174 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 17:13:52.205 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 17:13:54.958 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 17:13:54.958 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 17:13:54.958 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 17:18:55.065 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 17:18:57.654 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 17:18:57.654 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 17:18:57.654 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 17:23:57.760 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 17:24:00.361 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 17:24:00.361 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 17:24:00.361 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 17:29:00.429 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 17:29:03.096 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 17:29:03.096 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 17:29:03.096 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 17:34:03.200 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 17:34:05.960 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 17:34:05.960 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 17:34:05.963 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 17:39:06.063 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 17:39:08.881 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 17:39:08.881 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 17:39:08.881 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 17:44:08.953 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 17:44:11.517 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 17:44:11.518 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 17:44:11.518 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 17:49:11.618 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 17:49:14.109 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 17:49:14.109 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 17:49:14.109 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 17:54:14.212 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 17:54:17.127 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 17:54:17.127 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 17:54:17.127 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 17:59:17.185 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 17:59:31.818 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 17:59:31.818 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 17:59:31.818 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 18:04:31.924 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 18:04:34.630 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 18:04:34.630 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 18:04:34.630 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 18:09:34.705 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 18:09:37.237 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 18:09:37.237 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 18:09:37.237 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 18:14:37.268 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 18:14:40.042 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 18:14:40.042 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 18:14:40.042 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 18:19:40.126 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 18:19:42.494 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 18:19:42.494 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 18:19:42.494 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 18:24:42.579 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 18:24:44.760 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 18:24:44.760 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 18:24:44.760 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 18:29:44.864 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 18:29:47.242 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 18:29:47.242 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 18:29:47.242 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 18:34:47.268 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 18:34:49.833 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 18:34:49.834 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 18:34:49.834 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 18:39:49.884 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 18:39:52.578 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 18:39:52.578 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 18:39:52.578 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 18:44:52.684 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 18:44:55.435 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 18:44:55.435 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 18:44:55.435 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 18:49:55.541 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 18:49:57.933 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 18:49:57.933 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 18:49:57.934 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 18:54:58.036 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 18:55:06.385 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 18:55:06.385 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 18:55:06.385 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 19:00:06.422 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 19:00:08.582 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 19:00:08.582 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 19:00:08.582 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 19:05:08.605 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 19:05:11.496 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 19:05:11.496 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 19:05:11.496 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 19:10:11.602 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 19:10:14.219 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 19:10:14.219 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 19:10:14.220 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 19:15:14.236 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 19:15:16.493 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 19:15:16.493 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 19:15:16.493 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 19:20:16.554 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 19:20:19.403 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 19:20:19.403 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 19:20:19.403 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 19:25:19.505 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 19:25:22.167 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 19:25:22.167 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 19:25:22.167 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 19:30:22.269 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 19:30:24.604 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 19:30:24.604 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 19:30:24.604 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 19:35:24.680 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 19:35:27.583 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 19:35:27.583 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 19:35:27.584 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 19:40:27.658 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 19:40:30.357 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 19:40:30.357 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 19:40:30.357 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 19:45:30.372 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 19:45:32.943 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 19:45:32.943 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 19:45:32.943 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 19:50:33.048 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 19:50:35.934 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 19:50:35.935 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 19:50:35.935 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 19:55:36.039 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 19:55:38.819 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 19:55:38.819 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 19:55:38.819 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 20:00:38.925 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 20:00:41.663 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 20:00:41.663 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 20:00:41.663 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 20:05:41.669 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 20:05:44.393 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 20:05:44.393 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 20:05:44.394 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 20:10:44.430 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 20:10:47.311 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 20:10:47.311 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 20:10:47.311 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 20:15:47.319 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 20:15:49.928 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 20:15:49.928 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 20:15:49.928 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 20:20:50.034 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 20:26:28.020 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 20:26:30.957 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 20:26:30.957 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 20:26:30.957 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 20:31:31.060 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 20:31:33.539 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 20:31:33.539 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 20:31:33.539 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 20:36:33.641 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 20:36:35.871 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 20:36:35.871 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 20:36:35.871 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 20:41:35.977 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 20:41:38.735 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 20:41:38.735 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 20:41:38.735 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 20:46:38.755 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 20:46:41.050 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 20:46:41.050 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 20:46:41.050 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 20:51:41.110 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 20:51:43.062 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 20:51:43.062 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 20:51:43.062 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 20:56:43.168 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 20:56:46.052 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 20:56:46.053 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 20:56:46.053 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 21:01:46.130 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 21:01:48.429 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 21:01:48.430 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 21:01:48.430 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 21:06:48.536 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 21:06:51.241 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 21:06:51.241 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 21:06:51.241 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 21:11:51.305 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 21:11:54.160 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 21:11:54.161 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 21:11:54.161 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 21:16:54.240 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 21:16:56.974 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 21:16:56.974 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 21:16:56.974 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 21:21:57.080 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 21:27:38.107 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 21:27:40.674 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 21:27:40.674 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 21:27:40.674 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 21:32:40.780 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 21:32:43.569 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 21:32:43.569 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 21:32:43.569 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 21:37:43.580 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 21:37:46.469 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 21:37:46.469 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 21:37:46.469 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 21:42:46.576 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 21:42:48.994 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 21:42:48.994 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 21:42:48.994 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 21:47:49.038 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 21:47:51.505 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 21:47:51.505 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 21:47:51.505 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 21:52:51.611 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 21:52:54.194 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 21:52:54.195 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 21:52:54.195 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 21:57:54.252 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 21:57:56.731 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 21:57:56.731 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 21:57:56.731 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 22:02:56.780 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 22:02:59.320 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 22:02:59.320 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 22:02:59.320 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 22:07:59.422 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 22:08:21.381 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 22:08:21.381 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 22:08:21.381 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 22:13:21.450 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 22:13:24.169 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 22:13:24.169 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 22:13:24.172 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 22:18:24.255 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 22:18:27.739 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 22:18:27.739 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 22:18:27.739 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 22:23:27.844 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 22:23:30.390 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 22:23:30.390 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 22:23:30.390 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 22:28:30.464 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 22:28:33.340 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 22:28:33.340 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 22:28:33.340 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 22:33:33.443 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 22:33:35.538 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 22:33:35.538 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 22:33:35.538 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 22:38:35.644 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 22:38:38.327 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 22:38:38.327 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 22:38:38.327 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 22:43:38.436 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 22:43:40.699 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 22:43:40.699 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 22:43:40.699 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 22:48:40.711 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 22:48:43.214 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 22:48:43.215 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 22:48:43.215 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 22:53:43.280 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 22:53:45.741 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 22:53:45.741 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 22:53:45.741 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 22:58:45.788 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 22:58:49.392 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 22:58:49.392 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 22:58:49.392 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 23:03:49.421 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 23:03:52.204 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 23:03:52.204 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 23:03:52.204 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 23:08:52.224 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 23:08:54.686 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 23:08:54.686 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 23:08:54.686 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 23:13:54.730 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 23:13:57.605 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 23:13:57.605 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 23:13:57.605 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 23:18:57.708 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 23:24:42.849 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 23:24:45.758 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 23:24:45.758 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 23:24:45.758 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 23:29:45.780 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 23:29:49.321 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 23:29:49.321 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 23:29:49.321 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 23:34:49.376 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 23:34:52.191 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 23:34:52.191 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 23:34:52.192 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 23:39:52.270 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 23:39:54.852 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 23:39:54.852 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 23:39:54.852 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 23:44:54.955 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 23:44:57.430 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 23:44:57.430 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 23:44:57.430 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 23:49:57.526 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 23:50:00.004 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 23:50:00.004 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 23:50:00.005 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-12-02 23:55:00.109 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2019-12-02 23:55:02.386 -03:00 [DEBUG] Activation success status: 'True'.
+2019-12-02 23:55:02.387 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-12-02 23:55:02.387 -03:00 [DEBUG] Trying to connect to the first pinpad available.

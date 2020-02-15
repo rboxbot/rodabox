@@ -1,0 +1,7 @@
+2019-11-22 01:15:45.158 +00:00 [DEBUG] Activating StoneCode '164185121'.
+2019-11-22 01:15:48.098 +00:00 [DEBUG] Activation success status: 'True'.
+2019-11-22 01:15:48.098 +00:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2019-11-22 01:15:48.104 +00:00 [DEBUG] Trying to connect to the first pinpad available.
+2019-11-22 01:15:48.261 +00:00 [DEBUG] Connection try finished.
+2019-11-22 01:15:48.329 +00:00 [DEBUG] Pinpad connected. Initiating ping.
+2019-11-22 01:15:48.337 +00:00 [DEBUG] Ping initiated.

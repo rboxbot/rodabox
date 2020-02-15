@@ -1,0 +1,233 @@
+2020-02-14 16:11:28.795 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-14 16:11:30.861 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-14 16:11:30.861 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-14 16:11:30.862 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-14 16:11:31.003 -03:00 [DEBUG] Connection try finished.
+2020-02-14 16:11:31.063 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-14 16:11:31.065 -03:00 [DEBUG] Ping initiated.
+2020-02-14 16:11:31.111 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2020-02-14 16:11:31.111 -03:00 [DEBUG] Initiator Transaction Key: '4794f373-950c-4fc8-9aae-c03f236748af'.
+2020-02-14 16:11:31.112 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2020-02-14 16:11:31.113 -03:00 [DEBUG] Performing card reading.
+2020-02-14 16:11:38.252 -03:00 [DEBUG] Card reading status: 'Ok'.
+2020-02-14 16:11:38.302 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2020-02-14 16:11:38.303 -03:00 [DEBUG] Card reading returned success.
+2020-02-14 16:11:38.303 -03:00 [DEBUG] Reading cardholder password.
+2020-02-14 16:11:38.304 -03:00 [DEBUG] Initiating 'ReadPassword' flow.
+2020-02-14 16:11:38.304 -03:00 [DEBUG] Reading cardholder password.
+2020-02-14 16:11:46.966 -03:00 [DEBUG] Card reading status: 'Ok'.
+2020-02-14 16:11:47.016 -03:00 [DEBUG] Finishing 'ReadPassword' flow.
+2020-02-14 16:11:47.016 -03:00 [DEBUG] Sending the transaction to Stone Payments authorizer.
+2020-02-14 16:11:47.018 -03:00 [DEBUG] Initiating 'SendAuthorizationAndGetReport' flow.
+2020-02-14 16:11:47.018 -03:00 [DEBUG] Initiator Transaction Key: '4794f373-950c-4fc8-9aae-c03f236748af'.
+2020-02-14 16:11:47.018 -03:00 [DEBUG] Creating the transaction entry, containing all information about the transaction.
+2020-02-14 16:11:47.069 -03:00 [DEBUG] Sending the transaction to Stone Payments authorizer.
+2020-02-14 16:11:48.715 -03:00 [DEBUG] Transaction status: 'True'.
+2020-02-14 16:11:48.715 -03:00 [DEBUG] Response Code: ''.
+2020-02-14 16:11:48.715 -03:00 [DEBUG] Response Reason: ''.
+2020-02-14 16:11:48.715 -03:00 [DEBUG] Acquirer Transaction Key (ATK): '14505792115327'.
+2020-02-14 16:11:48.719 -03:00 [DEBUG] Sending FNC to the EMV module.
+2020-02-14 16:11:48.952 -03:00 [DEBUG] Transaction approved!
+2020-02-14 16:11:48.952 -03:00 [DEBUG] Waiting for card removal.
+2020-02-14 16:11:48.953 -03:00 [DEBUG] Initiating 'PromptForCardRemoval' flow.
+2020-02-14 16:11:50.102 -03:00 [DEBUG] Finishing 'PromptForCardRemoval' flow.
+2020-02-14 16:11:50.102 -03:00 [DEBUG] Printing receipt (if the pinpad supports it).
+2020-02-14 16:11:50.104 -03:00 [DEBUG] Finishing 'SendAuthorizationAndGetReport' flow.
+2020-02-14 16:11:50.105 -03:00 [DEBUG] Finishing 'Authorize' flow.
+2020-02-14 16:14:44.243 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-14 16:14:46.273 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-14 16:14:46.273 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-14 16:14:46.273 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-14 16:14:46.414 -03:00 [DEBUG] Connection try finished.
+2020-02-14 16:14:46.483 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-14 16:14:46.485 -03:00 [DEBUG] Ping initiated.
+2020-02-14 16:14:46.521 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2020-02-14 16:14:46.521 -03:00 [DEBUG] Initiator Transaction Key: '63283039-a630-4014-8440-81a39af5d6d6'.
+2020-02-14 16:14:46.522 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2020-02-14 16:14:46.522 -03:00 [DEBUG] Performing card reading.
+2020-02-14 16:14:52.928 -03:00 [DEBUG] Card reading status: 'Ok'.
+2020-02-14 16:14:52.979 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2020-02-14 16:14:52.979 -03:00 [DEBUG] Card reading returned success.
+2020-02-14 16:14:52.980 -03:00 [DEBUG] Reading cardholder password.
+2020-02-14 16:14:52.981 -03:00 [DEBUG] Initiating 'ReadPassword' flow.
+2020-02-14 16:14:52.981 -03:00 [DEBUG] Reading cardholder password.
+2020-02-14 16:14:55.829 -03:00 [DEBUG] Card reading status: 'Ok'.
+2020-02-14 16:14:55.879 -03:00 [DEBUG] Finishing 'ReadPassword' flow.
+2020-02-14 16:14:55.879 -03:00 [DEBUG] Sending the transaction to Stone Payments authorizer.
+2020-02-14 16:14:55.882 -03:00 [DEBUG] Initiating 'SendAuthorizationAndGetReport' flow.
+2020-02-14 16:14:55.882 -03:00 [DEBUG] Initiator Transaction Key: '63283039-a630-4014-8440-81a39af5d6d6'.
+2020-02-14 16:14:55.882 -03:00 [DEBUG] Creating the transaction entry, containing all information about the transaction.
+2020-02-14 16:14:55.933 -03:00 [DEBUG] Sending the transaction to Stone Payments authorizer.
+2020-02-14 16:14:57.400 -03:00 [DEBUG] Transaction status: 'True'.
+2020-02-14 16:14:57.400 -03:00 [DEBUG] Response Code: ''.
+2020-02-14 16:14:57.400 -03:00 [DEBUG] Response Reason: ''.
+2020-02-14 16:14:57.400 -03:00 [DEBUG] Acquirer Transaction Key (ATK): '14505792154167'.
+2020-02-14 16:14:57.404 -03:00 [DEBUG] Sending FNC to the EMV module.
+2020-02-14 16:14:57.627 -03:00 [DEBUG] Transaction approved!
+2020-02-14 16:14:57.627 -03:00 [DEBUG] Waiting for card removal.
+2020-02-14 16:14:57.627 -03:00 [DEBUG] Initiating 'PromptForCardRemoval' flow.
+2020-02-14 16:14:59.416 -03:00 [DEBUG] Finishing 'PromptForCardRemoval' flow.
+2020-02-14 16:14:59.416 -03:00 [DEBUG] Printing receipt (if the pinpad supports it).
+2020-02-14 16:14:59.418 -03:00 [DEBUG] Finishing 'SendAuthorizationAndGetReport' flow.
+2020-02-14 16:14:59.418 -03:00 [DEBUG] Finishing 'Authorize' flow.
+2020-02-14 16:30:05.772 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-14 16:30:07.136 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-14 16:30:07.136 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-14 16:30:07.136 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-14 16:30:07.255 -03:00 [DEBUG] Connection try finished.
+2020-02-14 16:30:07.308 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-14 16:30:07.310 -03:00 [DEBUG] Ping initiated.
+2020-02-14 16:30:07.312 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2020-02-14 16:30:07.312 -03:00 [DEBUG] Initiator Transaction Key: 'aeeeb53a-3493-468d-9b67-9da6a7666ed3'.
+2020-02-14 16:30:07.312 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2020-02-14 16:30:07.312 -03:00 [DEBUG] Performing card reading.
+2020-02-14 16:30:09.350 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2020-02-14 16:30:09.399 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2020-02-14 16:30:09.449 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2020-02-14 16:30:25.776 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-14 16:30:26.103 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-14 16:30:26.103 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-14 16:30:26.103 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-14 16:30:26.223 -03:00 [DEBUG] Connection try finished.
+2020-02-14 16:30:26.272 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-14 16:30:26.273 -03:00 [DEBUG] Ping initiated.
+2020-02-14 16:30:26.276 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2020-02-14 16:30:26.276 -03:00 [DEBUG] Initiator Transaction Key: '9d444c08-f2dd-4a0a-b294-02dffcf1062d'.
+2020-02-14 16:30:26.276 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2020-02-14 16:30:26.276 -03:00 [DEBUG] Performing card reading.
+2020-02-14 16:30:54.008 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-14 16:30:54.335 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-14 16:30:54.335 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-14 16:30:54.335 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-14 16:30:54.452 -03:00 [DEBUG] Connection try finished.
+2020-02-14 16:30:54.501 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-14 16:30:54.502 -03:00 [DEBUG] Ping initiated.
+2020-02-14 16:30:54.504 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2020-02-14 16:30:54.504 -03:00 [DEBUG] Initiator Transaction Key: 'ccb40d2b-10e7-4361-9ffc-d0f8b3709d46'.
+2020-02-14 16:30:54.504 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2020-02-14 16:30:54.504 -03:00 [DEBUG] Performing card reading.
+2020-02-14 16:30:59.480 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2020-02-14 16:30:59.531 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2020-02-14 16:30:59.580 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
+2020-02-14 16:31:27.976 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-14 16:31:28.327 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-14 16:31:28.327 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-14 16:31:28.327 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-14 16:31:28.448 -03:00 [DEBUG] Connection try finished.
+2020-02-14 16:31:28.497 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-14 16:31:28.498 -03:00 [DEBUG] Ping initiated.
+2020-02-14 16:31:28.500 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2020-02-14 16:31:28.501 -03:00 [DEBUG] Initiator Transaction Key: 'c6e98520-5033-4eaf-b1b4-871534992078'.
+2020-02-14 16:31:28.501 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2020-02-14 16:31:28.501 -03:00 [DEBUG] Performing card reading.
+2020-02-14 16:31:33.671 -03:00 [DEBUG] Card reading status: 'Ok'.
+2020-02-14 16:31:33.721 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2020-02-14 16:31:33.722 -03:00 [DEBUG] Card reading returned success.
+2020-02-14 16:31:33.722 -03:00 [DEBUG] Reading cardholder password.
+2020-02-14 16:31:33.722 -03:00 [DEBUG] Initiating 'ReadPassword' flow.
+2020-02-14 16:31:33.722 -03:00 [DEBUG] Reading cardholder password.
+2020-02-14 16:31:39.326 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2020-02-14 16:31:39.326 -03:00 [DEBUG] PIN not read because cardholder cancelled the transaction.
+2020-02-14 16:31:39.327 -03:00 [ERROR] PIN not read due to unexpected error.
+2020-02-14 16:31:39.377 -03:00 [DEBUG] Finishing 'ReadPassword' flow.
+2020-02-14 16:31:39.427 -03:00 [WARNING] Password reading returned status 'OperationCancelled' instead of success.
+2020-02-14 16:31:50.501 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-14 16:31:50.847 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-14 16:31:50.847 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-14 16:31:50.848 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-14 16:31:50.968 -03:00 [DEBUG] Connection try finished.
+2020-02-14 16:31:51.017 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-14 16:31:51.017 -03:00 [DEBUG] Ping initiated.
+2020-02-14 16:31:51.018 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2020-02-14 16:31:51.019 -03:00 [DEBUG] Initiator Transaction Key: '7c6463ee-29eb-4ca9-8097-120cae5967a5'.
+2020-02-14 16:31:51.019 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2020-02-14 16:31:51.019 -03:00 [DEBUG] Performing card reading.
+2020-02-14 16:32:01.251 -03:00 [DEBUG] Card reading status: 'NoneCardDetected'.
+2020-02-14 16:32:01.301 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2020-02-14 16:32:01.350 -03:00 [WARNING] Card reading returned status 'NoneCardDetected' instead of success.
+2020-02-14 16:35:43.238 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-14 16:35:44.460 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-14 16:35:44.460 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-14 16:35:44.460 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-14 16:35:44.579 -03:00 [DEBUG] Connection try finished.
+2020-02-14 16:35:44.627 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-14 16:35:44.628 -03:00 [DEBUG] Ping initiated.
+2020-02-14 16:35:44.629 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2020-02-14 16:35:44.629 -03:00 [DEBUG] Initiator Transaction Key: '623fe242-7e51-4573-acf6-50cdedeeaf42'.
+2020-02-14 16:35:44.629 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2020-02-14 16:35:44.629 -03:00 [DEBUG] Performing card reading.
+2020-02-14 16:36:14.406 -03:00 [DEBUG] Card reading status: 'Ok'.
+2020-02-14 16:36:14.456 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2020-02-14 16:36:14.456 -03:00 [DEBUG] Card reading returned success.
+2020-02-14 16:36:14.457 -03:00 [DEBUG] Reading cardholder password.
+2020-02-14 16:36:14.457 -03:00 [DEBUG] Initiating 'ReadPassword' flow.
+2020-02-14 16:36:14.457 -03:00 [DEBUG] Reading cardholder password.
+2020-02-14 16:36:17.999 -03:00 [DEBUG] Card reading status: 'Ok'.
+2020-02-14 16:36:18.049 -03:00 [DEBUG] Finishing 'ReadPassword' flow.
+2020-02-14 16:36:18.049 -03:00 [DEBUG] Sending the transaction to Stone Payments authorizer.
+2020-02-14 16:36:18.049 -03:00 [DEBUG] Initiating 'SendAuthorizationAndGetReport' flow.
+2020-02-14 16:36:18.049 -03:00 [DEBUG] Initiator Transaction Key: '623fe242-7e51-4573-acf6-50cdedeeaf42'.
+2020-02-14 16:36:18.049 -03:00 [DEBUG] Creating the transaction entry, containing all information about the transaction.
+2020-02-14 16:36:18.098 -03:00 [DEBUG] Sending the transaction to Stone Payments authorizer.
+2020-02-14 16:36:19.836 -03:00 [DEBUG] Transaction status: 'True'.
+2020-02-14 16:36:19.836 -03:00 [DEBUG] Response Code: ''.
+2020-02-14 16:36:19.837 -03:00 [DEBUG] Response Reason: ''.
+2020-02-14 16:36:19.837 -03:00 [DEBUG] Acquirer Transaction Key (ATK): '14505792424586'.
+2020-02-14 16:36:19.838 -03:00 [DEBUG] Sending FNC to the EMV module.
+2020-02-14 16:36:20.055 -03:00 [DEBUG] Transaction approved!
+2020-02-14 16:36:20.055 -03:00 [DEBUG] Waiting for card removal.
+2020-02-14 16:36:20.056 -03:00 [DEBUG] Initiating 'PromptForCardRemoval' flow.
+2020-02-14 16:36:21.743 -03:00 [DEBUG] Finishing 'PromptForCardRemoval' flow.
+2020-02-14 16:36:21.743 -03:00 [DEBUG] Printing receipt (if the pinpad supports it).
+2020-02-14 16:36:21.744 -03:00 [DEBUG] Finishing 'SendAuthorizationAndGetReport' flow.
+2020-02-14 16:36:21.744 -03:00 [DEBUG] Finishing 'Authorize' flow.
+2020-02-14 16:44:21.330 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-14 16:44:22.575 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-14 16:44:22.576 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-14 16:44:22.576 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-14 16:44:22.695 -03:00 [DEBUG] Connection try finished.
+2020-02-14 16:44:22.744 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-14 16:44:22.745 -03:00 [DEBUG] Ping initiated.
+2020-02-14 16:44:22.747 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2020-02-14 16:44:22.748 -03:00 [DEBUG] Initiator Transaction Key: '45974ae3-c761-453c-82ef-2e79791053b2'.
+2020-02-14 16:44:22.748 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2020-02-14 16:44:22.748 -03:00 [DEBUG] Performing card reading.
+2020-02-14 16:44:36.949 -03:00 [DEBUG] Card reading status: 'Ok'.
+2020-02-14 16:44:37.000 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2020-02-14 16:44:37.000 -03:00 [DEBUG] Card reading returned success.
+2020-02-14 16:44:37.000 -03:00 [DEBUG] Reading cardholder password.
+2020-02-14 16:44:37.000 -03:00 [DEBUG] Initiating 'ReadPassword' flow.
+2020-02-14 16:44:37.000 -03:00 [DEBUG] Reading cardholder password.
+2020-02-14 16:44:40.112 -03:00 [DEBUG] Card reading status: 'Ok'.
+2020-02-14 16:44:40.162 -03:00 [DEBUG] Finishing 'ReadPassword' flow.
+2020-02-14 16:44:40.162 -03:00 [DEBUG] Sending the transaction to Stone Payments authorizer.
+2020-02-14 16:44:40.162 -03:00 [DEBUG] Initiating 'SendAuthorizationAndGetReport' flow.
+2020-02-14 16:44:40.162 -03:00 [DEBUG] Initiator Transaction Key: '45974ae3-c761-453c-82ef-2e79791053b2'.
+2020-02-14 16:44:40.162 -03:00 [DEBUG] Creating the transaction entry, containing all information about the transaction.
+2020-02-14 16:44:40.211 -03:00 [DEBUG] Sending the transaction to Stone Payments authorizer.
+2020-02-14 16:44:41.585 -03:00 [DEBUG] Transaction status: 'True'.
+2020-02-14 16:44:41.585 -03:00 [DEBUG] Response Code: ''.
+2020-02-14 16:44:41.585 -03:00 [DEBUG] Response Reason: ''.
+2020-02-14 16:44:41.585 -03:00 [DEBUG] Acquirer Transaction Key (ATK): '14505792534906'.
+2020-02-14 16:44:41.585 -03:00 [DEBUG] Sending FNC to the EMV module.
+2020-02-14 16:44:41.814 -03:00 [DEBUG] Transaction approved!
+2020-02-14 16:44:41.814 -03:00 [DEBUG] Waiting for card removal.
+2020-02-14 16:44:41.815 -03:00 [DEBUG] Initiating 'PromptForCardRemoval' flow.
+2020-02-14 16:44:43.954 -03:00 [DEBUG] Finishing 'PromptForCardRemoval' flow.
+2020-02-14 16:44:43.954 -03:00 [DEBUG] Printing receipt (if the pinpad supports it).
+2020-02-14 16:44:43.954 -03:00 [DEBUG] Finishing 'SendAuthorizationAndGetReport' flow.
+2020-02-14 16:44:43.954 -03:00 [DEBUG] Finishing 'Authorize' flow.
+2020-02-14 17:36:11.735 -03:00 [DEBUG] Activating StoneCode '164185121'.
+2020-02-14 17:36:13.123 -03:00 [DEBUG] Activation success status: 'True'.
+2020-02-14 17:36:13.123 -03:00 [DEBUG] Trying to connect to the first pinpad in the machine. ConnectionName: '' // EnableWifi: 'False' // MerchantEmail: ''.
+2020-02-14 17:36:13.123 -03:00 [DEBUG] Trying to connect to the first pinpad available.
+2020-02-14 17:36:13.242 -03:00 [DEBUG] Connection try finished.
+2020-02-14 17:36:13.291 -03:00 [DEBUG] Pinpad connected. Initiating ping.
+2020-02-14 17:36:13.291 -03:00 [DEBUG] Ping initiated.
+2020-02-14 17:36:13.292 -03:00 [DEBUG] Initiating 'Authorize' flow.
+2020-02-14 17:36:13.292 -03:00 [DEBUG] Initiator Transaction Key: '7822557e-69ad-480c-b1af-052cf5544606'.
+2020-02-14 17:36:13.292 -03:00 [DEBUG] Initiating 'ReadCard' flow.
+2020-02-14 17:36:13.292 -03:00 [DEBUG] Performing card reading.
+2020-02-14 17:36:21.296 -03:00 [DEBUG] Card reading status: 'OperationCancelled'.
+2020-02-14 17:36:21.346 -03:00 [DEBUG] Finishing 'ReadCard' flow.
+2020-02-14 17:36:21.395 -03:00 [WARNING] Card reading returned status 'OperationCancelled' instead of success.
