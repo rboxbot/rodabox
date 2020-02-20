@@ -5,6 +5,10 @@
 
 
 
+
+
+
+
 # Rodabox
 Rodabox é um serviço de pagamento e telemetria para dispositivos embarcados Raspberry Pi 3 da Roda Conveniência LTDA. Este container contém a pasta **/home/rodabox** com as seguintes camadas:
 
