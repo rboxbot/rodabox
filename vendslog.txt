@@ -1,0 +1,54 @@
+2/19/2020 3:29:47 PM :  
+   * Stone ID: 15005840293078
+   * Valor: 0.01
+   * Tipo: Debito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+   * Digitos do cartao: 550209\*\*\*\*\*\*2783
+
+-----------------------------------------------------------------------------------
+2/19/2020 3:31:34 PM :  
+   * Stone ID: 15005840312837
+   * Valor: 0.01
+   * Tipo: Debito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+   * Digitos do cartao: 550209\*\*\*\*\*\*2783
+
+-----------------------------------------------------------------------------------
+2/19/2020 4:38:36 PM :  
+   * Stone ID: 15005841082849
+   * Valor: 0.01
+   * Tipo: Debito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+   * Digitos do cartao: 550209\*\*\*\*\*\*2783
+
+-----------------------------------------------------------------------------------
+2/19/2020 4:41:29 PM :  
+   * Stone ID: 15005841119609
+   * Valor: 0.01
+   * Tipo: Debito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+   * Digitos do cartao: 550209\*\*\*\*\*\*2783
+
+-----------------------------------------------------------------------------------
+2/19/2020 4:42:16 PM :  
+   * Stone ID: 15005841129311
+   * Valor: 0.01
+   * Tipo: Debito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+   * Digitos do cartao: 550209\*\*\*\*\*\*2783
+
+-----------------------------------------------------------------------------------
+2/19/2020 4:47:30 PM :  
+   * Stone ID: 15005841196725
+   * Valor: 0.01
+   * Tipo: Debito
+   * Bandeira: MASTERCARD
+   * Nome do portador: QUEIROZ/RAPHAEL F 
+   * Digitos do cartao: 550209\*\*\*\*\*\*2783
+
+-----------------------------------------------------------------------------------

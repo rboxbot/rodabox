@@ -4,7 +4,7 @@ import os
 import sys
 import setproctitle
 
-setproctitle.setproctitle('rodabox-server')
+setproctitle.setproctitle('rodabox-backpack')
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'backpack.settings')

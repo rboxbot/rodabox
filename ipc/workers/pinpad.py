@@ -8,17 +8,21 @@ import random
 import ipc
 
 class transaction(ipc.daemon.Demonize):
-  HAS_TRANSACTION = False
   PINPAD_SOCKET_ADDRESS = ('localhost', 9000)
   PINPAD_STONECODE = '164185121'
   DEFAULT_BYTES_TRANSPORT_LEN = int(os.environ["DEFAULT_BYTES_TRANSPORT_LEN"])
 
-  def hastransaction(self):
-    return self.response(self.HAS_TRANSACTION)
+  def _wise_response(self, response):
+    response = json.loads(response)
+    wise = dict()
+    for _bad_response in response:
+      wise.update(_bad_response)
+    return wise
 
-  def start_transaction(self):
-    if self.scheduler["PERIPHERALS_STATUS_HASPINPAD"]:
-      if self.HAS_TRANSACTION:
+  def pay(self):
+    if self.scheduler['TERMINAL_PARSER_HASCOMMANDLINE']:
+      if 'RODABOX_START_TRANSACTION' in self.scheduler["TERMINAL_LAST_COMMAND_LINE"]:
+        value = self.scheduler["TERMINAL_LAST_COMMAND_LINE"].split()[-1]
         with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as channel:
           # Conecta ao socket do pinpad
           channel.connect(self.PINPAD_SOCKET_ADDRESS)
@@ -27,21 +31,37 @@ class transaction(ipc.daemon.Demonize):
           active_message = 'ativar --stonecode %s' % self.PINPAD_STONECODE
           channel.send(active_message.encode())
           stdout = channel.recv(self.DEFAULT_BYTES_TRANSPORT_LEN)
-          # Inicia uma transação
+          # Inicia uma transação com um hash aleatório
           # Espera a resposta da transação
           hash = "%032x" % random.getrandbits(128)
           pay_message = 'pagar --valor 0.01 -id %s' % hash.upper()
           channel.send(pay_message.encode())
           stdout = channel.recv(self.DEFAULT_BYTES_TRANSPORT_LEN).decode('utf-8')
           # Espera o resultado da transação
-          self.scheduler["LAST_TRANSACTION"] = json.loads(stdout)
-          # HACK: Inseri os itens da lista no mesmo escopo para 1 json só
-          _wise_response = dict()
-          for _bad_response in self.scheduler["LAST_TRANSACTION"]:
-            _wise_response.update(_bad_response)
-          self.scheduler["LAST_TRANSACTION"] = _wise_response.copy()
-          # HACK: Fiz um strip dentro do holder_name pra remover os espaços
-          # A melhor forma de resolver este problema é fazer dentro do servidor C#
-          self.scheduler["LAST_TRANSACTION"]["response"]["holder_name"] = self.scheduler["LAST_TRANSACTION"]["response"]["holder_name"].strip()
-          self.HAS_TRANSACTION = False
+          response = self._wise_response(stdout)
+          self.scheduler['TERMINAL_PARSER_HASCOMMANDLINE'] = False
+          self.scheduler['RODABOX_LAST_TRANSACTION'] = json.dumps(response)
+    return self.response(None)
+
+  def refound(self):
+    if self.scheduler['TERMINAL_PARSER_HASCOMMANDLINE']:
+      if 'RODABOX_REFOUND_TRANSACTION' in self.scheduler["TERMINAL_LAST_COMMAND_LINE"]:
+        stoneid, value = self.scheduler["TERMINAL_LAST_COMMAND_LINE"].split()[1:]
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as channel:
+          # Conecta ao socket do pinpad
+          channel.connect(self.PINPAD_SOCKET_ADDRESS)
+          # Ativa o stone code e inicia a máquina
+          # Espera a resposta da ativação
+          active_message = 'ativar --stonecode %s' % self.PINPAD_STONECODE
+          channel.send(active_message.encode())
+          stdout = channel.recv(self.DEFAULT_BYTES_TRANSPORT_LEN)
+          # Inicia uma transação com um hash aleatório
+          # Espera a resposta da transação
+          pay_message = 'cancelar --stoneid %s --valor %s' % (stoneid, value)
+          channel.send(pay_message.encode())
+          stdout = channel.recv(self.DEFAULT_BYTES_TRANSPORT_LEN).decode('utf-8')
+          # Espera o resultado da transação
+          response = self._wise_response(stdout)
+          self.scheduler['TERMINAL_PARSER_HASCOMMANDLINE'] = False
+          self.scheduler['RODABOX_LAST_TRANSACTION'] = json.dumps(response)
     return self.response(None)

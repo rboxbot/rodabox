@@ -1,3 +1,6 @@
+'''
+'''
+
 import os
 import sys
 import glob
@@ -23,6 +26,9 @@ def debug(message):
 class Demonize:
   @classmethod
   def response(self, response, wait=0.25, nice=0):
+    if isinstance(response, dict):
+      response = json.dumps(response)
+      print("aqui")
     time.sleep(wait)
     os.nice(nice)
     return response
@@ -110,6 +116,10 @@ class demonize:
     return flatten(foolish, reducer=self._underscore_reducer)
 
   def workit(self):
+    self.service.scheduler["TERMINAL_PARSER_HASCOMMANDLINE"] = False
+    self.service.scheduler["TERMINAL_LAST_COMMAND_LINE"] = ''
+
+    # Abre todos os workers em subthreads
     last_checked_response = self.service.scheduler.copy()
     for pid, instance in self.package().items():
       if pid != 'started_at':
@@ -117,16 +127,20 @@ class demonize:
         self.service.scheduler[pid] = None
         self.threads = _hint_subthread(pid, instance, self.service).start()
 
+    # Lê os comandos externos
     while True:
       connection, address = self.socket.accept()
       try:
         message = connection.recv(self.DEFAULT_BYTES_TRANSPORT_LEN).decode('utf-8')
         if message != '':
-          stdout = json.dumps(self.service.scheduler).encode()
           self.service.scheduler["TERMINAL_PARSER_HASCOMMANDLINE"] = True
           self.service.scheduler["TERMINAL_LAST_COMMAND_LINE"] = message
+          last_checked_response = self.service.scheduler.copy()
           # Aqui é enviado o self.scheduler
-          connection.send(stdout)
+          while True:
+            if not self.service.scheduler["TERMINAL_PARSER_HASCOMMANDLINE"]:
+              connection.send(json.dumps(self.service.scheduler).encode())
+              break
       except Exception as ex:
         debug("Internal response error: %s." % str(ex))
 

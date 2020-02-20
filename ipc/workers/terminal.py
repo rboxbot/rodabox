@@ -3,18 +3,6 @@ import ipc
 class parser(ipc.daemon.Demonize):
   LAST_COMMAND_LINE = ''
 
-  def hascommandline(self):
-    if self.scheduler["TERMINAL_PARSER_HASCOMMANDLINE"]:
-      command = self.scheduler["TERMINAL_LAST_COMMAND_LINE"]
-      splitted = command.split()
-      if len(splitted) == 2:
-        try:
-          exec("self._%s()" % "_".join(splitted))
-        except Exception as ex:
-          ipc.daemon.debug("An error ocurred at '%s'." % ex)
-      self.scheduler["TERMINAL_PARSER_HASCOMMANDLINE"] = False
-    return self.response(False)
-
   def _update_ethernet(self):
     print("Executando _update_ethernet")
 
