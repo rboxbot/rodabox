@@ -27,6 +27,7 @@ router = routers.DefaultRouter()
 router.register(r'backlog/peripherals', backlog.views.PeripheralsViewSet)
 # Backpack
 router.register(r'backpack/planogram/product', inventory.views.PlanogramProductViewSet)
+router.register(r'backpack/pucharse', inventory.views.PurchaseViewSet)
 
 urlpatterns = [
     path('admin/', admin.site.urls),

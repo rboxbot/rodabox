@@ -77,6 +77,7 @@ class PurchaseViewSet(viewsets.ModelViewSet):
   queryset = models.Purchase.objects.all()
   serializer_class = serializers.PurchaseSerializer
 
-  @action(detail=False, methods=['get'], url_path="start/transaction")
-  def _start_transaction(self, request):
+  @action(detail=False, methods=['post'], url_path="new/transaction")
+  def _new_transaction(self, request):
+    print(request.query_params.get("products")[0]["id"])
     return Response({})
